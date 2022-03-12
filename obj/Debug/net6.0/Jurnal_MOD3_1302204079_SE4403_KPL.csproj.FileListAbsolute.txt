@@ -1,0 +1,15 @@
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\obj\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.csproj.AssemblyReference.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\obj\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\obj\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.AssemblyInfoInputs.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\obj\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.AssemblyInfo.cs
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\obj\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.csproj.CoreCompileInputs.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\bin\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.exe
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\bin\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.deps.json
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\bin\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.runtimeconfig.json
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\bin\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.dll
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\bin\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.pdb
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\obj\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.dll
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\obj\Debug\net6.0\refint\Jurnal_MOD3_1302204079_SE4403_KPL.dll
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\obj\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.pdb
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\obj\Debug\net6.0\Jurnal_MOD3_1302204079_SE4403_KPL.genruntimeconfig.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD3_1302204079_SE4403_KPL\obj\Debug\net6.0\ref\Jurnal_MOD3_1302204079_SE4403_KPL.dll

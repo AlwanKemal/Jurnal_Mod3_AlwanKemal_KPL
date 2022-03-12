@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Jurnal_MOD3_1302204079_SE4403_KPL/1.0.0": {
+        "runtime": {
+          "Jurnal_MOD3_1302204079_SE4403_KPL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jurnal_MOD3_1302204079_SE4403_KPL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
